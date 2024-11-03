@@ -1,0 +1,20 @@
+Reference
+
+https://velog.io/@sierra9707/%EB%B0%B1%EC%97%94%EB%93%9C-%EB%A1%9C%EB%93%9C%EB%A7%B5-internet-%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80
+
+
+How internet works??
+
+Router
+ - makes sure computer network does not tangle(꼬이다).
+
+ - basically router controls messages between computers.
+
+ - eg. I am using Computer A, and try to send a message to Computer B. Router shows my message and send my message to Computer B.
+
+ - Router has software. => meaning, Router can be a computer. 
+ => this means a router can connect another router. 
+ 
+ - Connecting Routers in this way allows them to link multiple computers, which ultimately forms the network infrastructure that  makes up the internet. 
+
+ - this is not only the way to build the internet structure. This will produce many internets that are separated -> this is the negative side.
