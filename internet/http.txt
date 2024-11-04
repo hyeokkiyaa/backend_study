@@ -18,3 +18,9 @@ Router
  - Connecting Routers in this way allows them to link multiple computers, which ultimately forms the network infrastructure that  makes up the internet. 
 
  - this is not only the way to build the internet structure. This will produce many internets that are separated -> this is the negative side.
+
+Routers connect devices within a network, creating groups that communicate locally. These groups can be interconnected through a modem, which helps facilitate communication beyond the local network. However, connecting to a larger network, such as the internet, requires additional support. This is where Internet Service Providers (ISPs) come in. In South Korea, companies like KT, SK Telecom (SKT), and LG U+ offer these services. ISPs provide users with internet access, allowing them to connect to a vast network of interconnected routers and communicate easily without physical distance constraints.
+
+Modems play a key role by translating digital data into a format suitable for transmission over various networks, including older telephone lines. ISPs generally manage large networks of routers used by multiple customers, and they handle interconnections between their own network and those of other ISPs.
+
+When you perform tasks on your local computer and want to send data to another person, the data travels through your local router to the modem. The modem converts the data, which is then routed through ISP networks and possibly through telephone exchanges, eventually reaching another ISP's network and finally the recipient’s device.
