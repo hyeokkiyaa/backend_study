@@ -24,3 +24,5 @@ Routers connect devices within a network, creating groups that communicate local
 Modems play a key role by translating digital data into a format suitable for transmission over various networks, including older telephone lines. ISPs generally manage large networks of routers used by multiple customers, and they handle interconnections between their own network and those of other ISPs.
 
 When you perform tasks on your local computer and want to send data to another person, the data travels through your local router to the modem. The modem converts the data, which is then routed through ISP networks and possibly through telephone exchanges, eventually reaching another ISP's network and finally the recipient’s device.
+
+
